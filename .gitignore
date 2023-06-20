@@ -8,6 +8,8 @@
 /.tarballs
 /vendor
 
+.idea/
+
 !.golangci.yml
 !/cli/testdata/*.yml
 !/cli/config/testdata/*.yml
