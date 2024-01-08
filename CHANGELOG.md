@@ -1,3 +1,7 @@
+## 0.25.1 / 2023-08-23
+
+* [SECURITY] Fix stored XSS via the /api/v1/alerts endpoint in the Alertmanager UI. CVE-2023-40577
+
 ## 0.25.0 / 2022-12-22
 
 * [CHANGE] Change the default `parse_mode` value from `MarkdownV2` to `HTML` for Telegram. #2981
